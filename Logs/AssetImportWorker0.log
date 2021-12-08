@@ -1007,3 +1007,28 @@ Received Import Request.
   path: Assets/Scenes/Principal.unity
   artifactKey: Guid(cb8eccf7a15d7104bb5c61c58b277f55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scenes/Principal.unity using Guid(cb8eccf7a15d7104bb5c61c58b277f55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9430dad76d20663e41e039c5ab9bb6b') in 0.001848 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 311.949325 seconds.
+  path: Assets/Scenes/StartGame.unity
+  artifactKey: Guid(930c7616f68436848b543b4d8f6eb5d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/StartGame.unity using Guid(930c7616f68436848b543b4d8f6eb5d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '478ee35a9437a0bcd00cbd088da28d39') in 0.001842 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.014839 seconds.
+  path: Assets/Scenes/Game Over.unity
+  artifactKey: Guid(4ca8f35818a0b92428fa0e2ca3fa5a8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Game Over.unity using Guid(4ca8f35818a0b92428fa0e2ca3fa5a8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '655db2a180cf264837cdf9a690b17e42') in 0.021323 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1204.083685 seconds.
+  path: Assets/Scenes/Principal.unity
+  artifactKey: Guid(cb8eccf7a15d7104bb5c61c58b277f55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Principal.unity using Guid(cb8eccf7a15d7104bb5c61c58b277f55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87c251f355e63f67dd81a505b0790b1f') in 0.001898 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 112.956562 seconds.
+  path: Assets/Scenes/Principal.unity
+  artifactKey: Guid(cb8eccf7a15d7104bb5c61c58b277f55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Principal.unity using Guid(cb8eccf7a15d7104bb5c61c58b277f55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '680b1388e90bdca6f4bc903f5a89825b') in 0.001568 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
