@@ -26,7 +26,7 @@ public class OutpostDoor : MonoBehaviour
         if (other.transform.tag == "Player")
         {
             int points = other.GetComponent<Player>().points;
-            if(points >= 8 && !isOpen)
+            if(points >= 4 && !isOpen)
             {
                 anim.Play("Opening");
                 isOpen = true;
@@ -34,7 +34,7 @@ public class OutpostDoor : MonoBehaviour
             else
             {
                 hintText.gameObject.SetActive(true);
-                hintText.text = "Voce possui "+points+"/8 livros. Colete todos para abrir a porta.";
+                hintText.text = "Voce possui "+points+"/4 livros. Colete todos para abrir a porta.";
             }
         }
     }
