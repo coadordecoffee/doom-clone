@@ -32,7 +32,7 @@ public class Player : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        pointText.text = "Books: " + points + "/8";
+        pointText.text = "Books: " + points + "/4";
 
         RaycastHit hit;
 

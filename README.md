@@ -1,2 +1,1 @@
-# Doom Clone for Video Game Programming subject in Computer Engineering at UniCEUB – 2/2021
-asdasdasdsa
+# Doom Clone for Video Game Programming subject in Computer Engineering at UniCEUB – 2/2021 #
