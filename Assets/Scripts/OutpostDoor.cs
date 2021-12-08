@@ -28,8 +28,7 @@ public class OutpostDoor : MonoBehaviour
             int points = other.GetComponent<Player>().points;
             if(points >= 4 && !isOpen)
             {
-                anim.Play("Opening");
-                isOpen = true;
+               Destroy(gameObject); 
             }
             else
             {
